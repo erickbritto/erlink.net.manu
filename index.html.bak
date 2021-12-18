@@ -11,9 +11,7 @@ document.write ("Hoje é " + ", " + now.getDate() + " de " + now.getMonth() + " 
 </script>
 </body>
 </html>
-   Olá! Estamos com a sua fatura em aberto, podemos negocia o pagamento aqui mesmo pelo Whatsapp.!! Caso o pagamento tenha sido efetuado, por favor desconsidera está mensagem!! assim Manoela Rocha  financeira da erlink.net.br
-
-Nosso horário de atendimento é de segunda à sexta-feira das 08:00 às 12:00 e das 13:00 às 18:00.  <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script> <script type="text/javascript" src="js/bootstrap.min.js"></script> <script type="text/javascript" src="js/triangles.js"></script> <script type="text/javascript" src="js/script.js"></script> </body></html>
+   Olá! Estamos com a sua fatura em aberto, podemos negocia o pagamento aqui mesmo pelo Whatsapp.!! Caso o pagamento tenha sido efetuado, por favor desconsidera está mensagem!! assim Manoela Rocha  financeira da erlink.net.br. Nosso horário de atendimento é de segunda à sexta-feira das 08:00 às 12:00 e das 13:00 às 18:00.  <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script> <script type="text/javascript" src="js/bootstrap.min.js"></script> <script type="text/javascript" src="js/triangles.js"></script> <script type="text/javascript" src="js/script.js"></script> </body></html>
 
 <!-- START Widget WhastApp hospedagemwordpresspro -->
 <a href="https://api.whatsapp.com/send?phone=5594991819470&text=Olá!%20%20Adonias%20Erlink.Net" class="bt-whatsApp" target="_blank" style="right:25px; position:fixed;width:60px;height:60px;bottom:40px;z-index:100;">
